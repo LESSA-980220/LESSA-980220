@@ -1,7 +1,7 @@
 # Profile
 
 | **NAME** | **윤영훈** |
-| --- | --- |
+| :--- | :--- |
 | **AGE** | **25** (1998.02.20) |
 | **EMAIL** | **lessa980220@naver.com**<br>**lessa980220@hanyang.ac.kr**<br>**lessa980220@gmail.com** |
 | **Programming Languages** | <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> |
