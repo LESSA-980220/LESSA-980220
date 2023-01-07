@@ -2,7 +2,7 @@
 
 | **NAME** | **윤영훈** |
 | :--- | :--- |
-| **AGE** | **25** (1998.02.20) |
+| **AGE** | **26** (1998.02.20) |
 | **EMAIL** | **lessa980220@naver.com**<br>**lessa980220@hanyang.ac.kr**<br>**lessa980220@gmail.com** |
 | **Programming Languages** | <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> |
 | **Project** | **2021-2022 컴퓨터캡스톤디자인**<br>- VR 던전탐색형 로그라이크 게임 : **VRouge**<br>- 기획/개발자 (Map/Object/Event 구현)<br><br>**2022 NEXON MapleStory World X Super Hackathon** (진행중)<br>- RPG 핵앤슬래시 서바이벌 게임 : **The Heores**<br>- 기획/개발자 (UI 및 게임 시스템 구현)<br>- 팀장/PM |
